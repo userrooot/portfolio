@@ -1,2 +1,2 @@
 # portfolio
-This is my portfolio of my meme coins that i launched.
+Hi, I'm a Blockchain Developer specializing in Meme Coins on Solana and Binance Smart Chain. 1+ years experience in Solidity.
