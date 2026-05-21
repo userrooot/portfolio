@@ -1,11 +1,11 @@
 <div align="center">
 
-# `> whoami`
+# `> Ayushkumar Manvar`
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   ECE Student  ·  Blockchain Dev  ·  Algo Trader         ║
-║   Gondal, Gujarat  →  targeting Europe                   ║
+║           Gujarat  →  targeting Europe                   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -97,6 +97,6 @@ Node.js  ·  Go  ·  Linux  ·  MCP  ·  REST APIs  ·  Claude Code  ·  Git
 
 <div align="center">
 
-`// Based in Gondal, Gujarat · Open to the world`
+`// Based in Gujarat · Open to the world`
 
 </div>
